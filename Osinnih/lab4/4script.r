@@ -16,7 +16,7 @@ mas30 <- integer (30)
 mas300 <- integer (300)
 masprob[1]<-0.2
 for (i in 2:100){
-	masprob[i]<-(masprob[i - 1] + 0.8/99)
+	masprob[i]<-(masprob[i - 1] + 0.7/99)
 }
 for (i in 1:10000){
 	masval[i] <- fn(runif(1, 0, 1))
@@ -47,7 +47,7 @@ Mx <- 0
 j <- 0
 for(j in 2:100)
 {
-	Mx <- Mx + (j * (0.8/99)) 
+	Mx <- Mx + (j * (0.7/99)) 
 }
 cat("M(x)_discr = ", Mx)
 Dx <- 0
@@ -55,7 +55,7 @@ Mx2 <- 0
 j <- 0
 for(j in 2:100)
 {
-	Mx2 <- Mx2 + ((j * j) * (0.8/99)) 
+	Mx2 <- Mx2 + ((j * j) * (0.7/99)) 
 }
  
 Dx <- Mx2 - (Mx * Mx)
