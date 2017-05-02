@@ -10,6 +10,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2652758 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Нос_слева и Возраст 
 
@@ -24,6 +27,10 @@ sample estimates:
        cor 
 -0.3017882 
 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
+
 Коэффициент корреляции для Нос_справа и Возраст 
 
 	Pearson's product-moment correlation
@@ -36,6 +43,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
       cor 
 -0.303105 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Щитовидная_железа и Возраст 
 
@@ -49,6 +59,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
       cor 
 -0.256177 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Яремная_область и Возраст 
 
@@ -62,6 +75,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.3010558 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Сердце и Возраст 
 
@@ -75,6 +91,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2784538 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Эпигастрий_1 и Возраст 
 
@@ -88,6 +107,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2443649 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Эпигастрий_2 и Возраст 
 
@@ -101,6 +123,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.02845854 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Тонкий_кишечник,_лев. и Возраст 
 
@@ -114,6 +139,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2086022 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Тонкий_кишечник,_прав. и Возраст 
 
@@ -127,6 +155,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.03787145 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Толстый_кишечник,_лев. и Возраст 
 
@@ -140,6 +171,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.07459462 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Толстый_кишечник,_прав. и Возраст 
 
@@ -153,6 +187,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.05971608 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Надлонная_область,_лев. и Возраст 
 
@@ -166,6 +203,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2311087 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Надлонная_область,_середина и Возраст 
 
@@ -179,6 +219,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2502835 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Надлонная_область,_прав. и Возраст 
 
@@ -192,6 +235,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2604266 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Мочевой_пузырь и Возраст 
 
@@ -205,6 +251,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.08938952 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Селезенка и Возраст 
 
@@ -218,6 +267,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2522201 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Печень и Возраст 
 
@@ -231,6 +283,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2827412 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Желчный_пузырь и Возраст 
 
@@ -244,6 +299,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2683474 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Дуоденом и Возраст 
 
@@ -256,7 +314,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.04357772  0.08111535
 sample estimates:
        cor 
-0.01884208 
+0.01884208
+Зависимость коэффициента корреляции практически отсутствует.
+
+ 
 
 Коэффициент корреляции для Поджелудочная_железа_1 и Возраст 
 
@@ -269,7 +330,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.07231456  0.05104201
 sample estimates:
        cor 
--0.0106769 
+-0.0106769
+Зависимость коэффициента корреляции практически отсутствует.
+
+ 
 
 Коэффициент корреляции для Поджелудочная_железа_2 и Возраст 
 
@@ -283,6 +347,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.02268031 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Легкие_1 и Возраст 
 
@@ -295,7 +362,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.2453921 -0.1518975
 sample estimates:
        cor 
--0.1990978 
+-0.1990978
+Зависимость коэффициента корреляции низкая отрицательная.
+
+ 
 
 Коэффициент корреляции для Легкие_2 и Возраст 
 
@@ -308,7 +378,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.03835281  0.08513362
 sample estimates:
        cor 
-0.02347996 
+0.02347996
+Зависимость коэффициента корреляции практически отсутствует.
+
+ 
 
 Коэффициент корреляции для Легкие_3 и Возраст 
 
@@ -321,7 +394,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.02072203  0.10244179
 sample estimates:
        cor 
-0.04101568 
+0.04101568
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Легкие_4 и Возраст 
 
@@ -334,7 +410,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.2584155 -0.1651888
 sample estimates:
        cor 
--0.2122851 
+-0.2122851
+Зависимость коэффициента корреляции низкая отрицательная.
+
+ 
 
 Коэффициент корреляции для Легкие_5 и Возраст 
 
@@ -347,7 +426,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.04853927  0.07499332
 sample estimates:
        cor 
-0.01327769 
+0.01327769
+Зависимость коэффициента корреляции практически отсутствует.
+
+ 
 
 Коэффициент корреляции для Легкие_6 и Возраст 
 
@@ -360,7 +442,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.02743775  0.09627725
 sample estimates:
        cor 
-0.03455212 
+0.03455212
+Зависимость коэффициента корреляции практически отсутствует.
+
+ 
 
 Коэффициент корреляции для Почка_левая и Возраст 
 
@@ -374,6 +459,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1939543 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Почка_правая и Возраст 
 
@@ -387,6 +475,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2133598 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Позвоночник_(Шея) и Возраст 
 
@@ -400,6 +491,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
       cor 
 -0.232754 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Позвоночник_(Грудь) и Возраст 
 
@@ -413,6 +507,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2186062 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Позвоночник_(Поясница) и Возраст 
 
@@ -426,6 +523,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1739053 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Позвоночник_(Крестец) и Возраст 
 
@@ -439,6 +539,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2520871 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Грудь_левая и Возраст 
 
@@ -452,6 +555,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 0.01508612 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Грудь_правая и Возраст 
 
@@ -465,6 +571,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
         cor 
 -0.02134736 
+Зависимость коэффициента корреляции практически отсутствует.
+
+
 
 Коэффициент корреляции для Ладонь_левая и Возраст 
 
@@ -477,7 +586,10 @@ alternative hypothesis: true correlation is not equal to 0
  -0.4710423 -0.3380678
 sample estimates:
       cor 
--0.406707 
+-0.406707
+Зависимость коэффициента корреляции средняя отрицательная.
+
+ 
 
 Коэффициент корреляции для Ладонь_правая и Возраст 
 
@@ -491,6 +603,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.4240042 
+Зависимость коэффициента корреляции средняя отрицательная.
+
+
 
 Коэффициент корреляции для Над_левым_коленом и Возраст 
 
@@ -504,6 +619,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2216234 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Над_правым_коленом и Возраст 
 
@@ -517,6 +635,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1717428 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Подколенная_левая и Возраст 
 
@@ -530,6 +651,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2156929 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Подколенная_правая и Возраст 
 
@@ -543,6 +667,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.2350733 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Предплечие_лев.,_верх и Возраст 
 
@@ -556,6 +683,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1079951 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Предплечие_прв.,_верх и Возраст 
 
@@ -569,6 +699,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1080882 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Предплечие_лев.,_низ и Возраст 
 
@@ -582,6 +715,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1869458 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Предплечие_прв.,_низ и Возраст 
 
@@ -595,6 +731,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1992008 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Стопа_левая,_верх и Возраст 
 
@@ -608,6 +747,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1964511 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Стопа_правая,_верх и Возраст 
 
@@ -621,6 +763,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.1860266 
+Зависимость коэффициента корреляции низкая отрицательная.
+
+
 
 Коэффициент корреляции для Стопа_левая,_низ и Возраст 
 
@@ -634,6 +779,9 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
        cor 
 -0.3611803 
+Зависимость коэффициента корреляции средняя отрицательная.
+
+
 
 Коэффициент корреляции для Стопа_правая,_низ и Возраст 
 
@@ -646,5 +794,7 @@ alternative hypothesis: true correlation is not equal to 0
  -0.4410003 -0.3040466
 sample estimates:
        cor 
--0.3745646 
+-0.3745646
+Зависимость коэффициента корреляции средняя отрицательная.
+ 
 
