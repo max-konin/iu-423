@@ -1,0 +1,650 @@
+Коэффициент корреляции для Переносье и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -11.0739, df = 1620, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3099462 -0.2194369
+sample estimates:
+       cor 
+-0.2652758 
+
+Коэффициент корреляции для Нос_слева и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -12.725, df = 1616, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3454403 -0.2568331
+sample estimates:
+       cor 
+-0.3017882 
+
+Коэффициент корреляции для Нос_справа и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -12.7901, df = 1617, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3467027 -0.2582004
+sample estimates:
+      cor 
+-0.303105 
+
+Коэффициент корреляции для Щитовидная_железа и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.4775, df = 1563, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3018957 -0.2092826
+sample estimates:
+      cor 
+-0.256177 
+
+Коэффициент корреляции для Яремная_область и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -7.8926, df = 625, p-value = 1.331e-14
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3706199 -0.2281328
+sample estimates:
+       cor 
+-0.3010558 
+
+Коэффициент корреляции для Сердце и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -11.575, df = 1594, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3231064 -0.2325641
+sample estimates:
+       cor 
+-0.2784538 
+
+Коэффициент корреляции для Эпигастрий_1 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.0707, df = 1597, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2899131 -0.1977121
+sample estimates:
+       cor 
+-0.2443649 
+
+Коэффициент корреляции для Эпигастрий_2 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 0.9075, df = 1016, p-value = 0.3644
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.03304157  0.08974394
+sample estimates:
+       cor 
+0.02845854 
+
+Коэффициент корреляции для Тонкий_кишечник,_лев. и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -8.5717, df = 1615, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2547591 -0.1614970
+sample estimates:
+       cor 
+-0.2086022 
+
+Коэффициент корреляции для Тонкий_кишечник,_прав. и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 1.1991, df = 1001, p-value = 0.2308
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.02408528  0.09953836
+sample estimates:
+       cor 
+0.03787145 
+
+Коэффициент корреляции для Толстый_кишечник,_лев. и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 2.3607, df = 996, p-value = 0.01843
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.01259773 0.13602018
+sample estimates:
+       cor 
+0.07459462 
+
+Коэффициент корреляции для Толстый_кишечник,_прав. и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 1.887, df = 995, p-value = 0.05945
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.002379065  0.121352480
+sample estimates:
+       cor 
+0.05971608 
+
+Коэффициент корреляции для Надлонная_область,_лев. и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -9.4748, df = 1591, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2770771 -0.1840847
+sample estimates:
+       cor 
+-0.2311087 
+
+Коэффициент корреляции для Надлонная_область,_середина и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.1743, df = 1549, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2963656 -0.2030388
+sample estimates:
+       cor 
+-0.2502835 
+
+Коэффициент корреляции для Надлонная_область,_прав. и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.7556, df = 1590, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3056449 -0.2140362
+sample estimates:
+       cor 
+-0.2604266 
+
+Коэффициент корреляции для Мочевой_пузырь и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 1.7426, df = 377, p-value = 0.08222
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.01144817  0.18842740
+sample estimates:
+       cor 
+0.08938952 
+
+Коэффициент корреляции для Селезенка и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.3769, df = 1585, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2977312 -0.2055652
+sample estimates:
+       cor 
+-0.2522201 
+
+Коэффициент корреляции для Печень и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -11.8606, df = 1619, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3269280 -0.2373209
+sample estimates:
+       cor 
+-0.2827412 
+
+Коэффициент корреляции для Желчный_пузырь и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -11.1947, df = 1615, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3130004 -0.2225106
+sample estimates:
+       cor 
+-0.2683474 
+
+Коэффициент корреляции для Дуоденом и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 0.5918, df = 986, p-value = 0.5541
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.04357772  0.08111535
+sample estimates:
+       cor 
+0.01884208 
+
+Коэффициент корреляции для Поджелудочная_железа_1 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -0.339, df = 1008, p-value = 0.7347
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.07231456  0.05104201
+sample estimates:
+       cor 
+-0.0106769 
+
+Коэффициент корреляции для Поджелудочная_железа_2 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 0.7084, df = 975, p-value = 0.4789
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.04009559  0.08527787
+sample estimates:
+       cor 
+0.02268031 
+
+Коэффициент корреляции для Легкие_1 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -8.1772, df = 1620, p-value = 5.8e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2453921 -0.1518975
+sample estimates:
+       cor 
+-0.1990978 
+
+Коэффициент корреляции для Легкие_2 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 0.7446, df = 1005, p-value = 0.4567
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.03835281  0.08513362
+sample estimates:
+       cor 
+0.02347996 
+
+Коэффициент корреляции для Легкие_3 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 1.3033, df = 1008, p-value = 0.1928
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.02072203  0.10244179
+sample estimates:
+       cor 
+0.04101568 
+
+Коэффициент корреляции для Легкие_4 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -8.7193, df = 1611, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2584155 -0.1651888
+sample estimates:
+       cor 
+-0.2122851 
+
+Коэффициент корреляции для Легкие_5 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 0.421, df = 1005, p-value = 0.6739
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.04853927  0.07499332
+sample estimates:
+       cor 
+0.01327769 
+
+Коэффициент корреляции для Легкие_6 и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 1.0933, df = 1000, p-value = 0.2745
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.02743775  0.09627725
+sample estimates:
+       cor 
+0.03455212 
+
+Коэффициент корреляции для Почка_левая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -7.9527, df = 1618, p-value = 3.397e-15
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2403859 -0.1466372
+sample estimates:
+       cor 
+-0.1939543 
+
+Коэффициент корреляции для Почка_правая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -8.7845, df = 1618, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2593670 -0.1663864
+sample estimates:
+       cor 
+-0.2133598 
+
+Коэффициент корреляции для Позвоночник_(Шея) и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -9.6029, df = 1610, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2784132 -0.1860451
+sample estimates:
+      cor 
+-0.232754 
+
+Коэффициент корреляции для Позвоночник_(Грудь) и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -8.9889, df = 1610, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2646051 -0.1716148
+sample estimates:
+       cor 
+-0.2186062 
+
+Коэффициент корреляции для Позвоночник_(Поясница) и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -7.0859, df = 1610, p-value = 2.058e-12
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2208532 -0.1261534
+sample estimates:
+       cor 
+-0.1739053 
+
+Коэффициент корреляции для Позвоночник_(Крестец) и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.446, df = 1608, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2972794 -0.2057679
+sample estimates:
+       cor 
+-0.2520871 
+
+Коэффициент корреляции для Грудь_левая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = 0.4546, df = 908, p-value = 0.6495
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.04995066  0.07999551
+sample estimates:
+       cor 
+0.01508612 
+
+Коэффициент корреляции для Грудь_правая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -0.6434, df = 908, p-value = 0.5201
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.08621556  0.04370108
+sample estimates:
+        cor 
+-0.02134736 
+
+Коэффициент корреляции для Ладонь_левая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -10.9502, df = 605, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4710423 -0.3380678
+sample estimates:
+      cor 
+-0.406707 
+
+Коэффициент корреляции для Ладонь_правая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -11.5155, df = 605, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4871477 -0.3564507
+sample estimates:
+       cor 
+-0.4240042 
+
+Коэффициент корреляции для Над_левым_коленом и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -5.5764, df = 602, p-value = 3.712e-08
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2961656 -0.1443977
+sample estimates:
+       cor 
+-0.2216234 
+
+Коэффициент корреляции для Над_правым_коленом и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -4.2774, df = 602, p-value = 2.199e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.24812186 -0.09324164
+sample estimates:
+       cor 
+-0.1717428 
+
+Коэффициент корреляции для Подколенная_левая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -5.4197, df = 602, p-value = 8.645e-08
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2904732 -0.1382939
+sample estimates:
+       cor 
+-0.2156929 
+
+Коэффициент корреляции для Подколенная_правая и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -5.934, df = 602, p-value = 4.992e-09
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3090560 -0.1582626
+sample estimates:
+       cor 
+-0.2350733 
+
+Коэффициент корреляции для Предплечие_лев.,_верх и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -2.6742, df = 606, p-value = 0.007694
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.18591422 -0.02872611
+sample estimates:
+       cor 
+-0.1079951 
+
+Коэффициент корреляции для Предплечие_прв.,_верх и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -2.6765, df = 606, p-value = 0.007641
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.18600514 -0.02882021
+sample estimates:
+       cor 
+-0.1080882 
+
+Коэффициент корреляции для Предплечие_лев.,_низ и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -4.6846, df = 606, p-value = 3.465e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2625585 -0.1090512
+sample estimates:
+       cor 
+-0.1869458 
+
+Коэффициент корреляции для Предплечие_прв.,_низ и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -5.004, df = 606, p-value = 7.367e-07
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2743705 -0.1216114
+sample estimates:
+       cor 
+-0.1992008 
+
+Коэффициент корреляции для Стопа_левая,_верх и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -4.924, df = 604, p-value = 1.096e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2718444 -0.1186609
+sample estimates:
+       cor 
+-0.1964511 
+
+Коэффициент корреляции для Стопа_правая,_верх и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -4.6569, df = 605, p-value = 3.948e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2617330 -0.1080449
+sample estimates:
+       cor 
+-0.1860266 
+
+Коэффициент корреляции для Стопа_левая,_низ и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -9.5191, df = 604, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4285005 -0.2898722
+sample estimates:
+       cor 
+-0.3611803 
+
+Коэффициент корреляции для Стопа_правая,_низ и Возраст 
+
+	Pearson's product-moment correlation
+
+data:  as.numeric(whole[, i]) and as.numeric(whole[, n])
+t = -9.9364, df = 605, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4410003 -0.3040466
+sample estimates:
+       cor 
+-0.3745646 
+
