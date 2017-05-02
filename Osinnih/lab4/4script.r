@@ -1,74 +1,74 @@
-п  =  функция ( )
+fn = function(a)
 {
-		для ( я  в  1 : 100 )
+		for(i in 1:100)
 		{
-			если ( > 0 & < masprob [ я ])      
+			if (a > 0 & a < masprob[i])
 			{
-				Возвращение ( я )
+				return (i)
 			}
-			если ( > = masprob [ я ] & < Masprob [ я + 1 ])       
-				Возвращение ( я )
+			if (a >= masprob[i] & a < masprob[i + 1])
+				return (i)
 		}
 }
-masprob  <- двойной ( 100 )
-masval  <- целое число ( 10000 )
-mas30  <- целое число , ( 30 )
-mas300  <- целое число , ( 300 )
-masprob [ 1 ] <- 0.2
-для ( я  в  2 : 100 ) {
-	masprob [ я ] <- ( masprob [ я  -  1 ] +  0,8 / 99 )
+masprob <- double (100)
+masval <- integer (10000)
+mas30 <- integer (30)
+mas300 <- integer (300)
+masprob[1]<-0.2
+for (i in 2:100){
+	masprob[i]<-(masprob[i - 1] + 0.8/99)
 }
-для ( я  в  1 : 10000 ) {
-	masval [ я ] <- п (runif ( 1 , 0 , 1 ))
+for (i in 1:10000){
+	masval[i] <- fn(runif(1, 0, 1))
 }
-для ( я  в  1 : 300 )
+for (i in 1:300)
 {
-	mas300 [ я ] <-  masval [образец ( 1 : 10000 , 1 )]
+	mas300[i] <- masval[sample(1:10000, 1)]
 }
-я  <-  0
-в то время как ( я  < =  30 )
+i <- 0
+while (i <= 30)
 {
-	к  <-  0
-	 <-  masval [образец ( 1 : 10000 , 1 )]
-	для ( J  в  1 : 30 )
+	k <- 0
+	a <- masval[sample(1:10000, 1)]
+	for (j in 1:30)
 	{
-		если ( == mas30 [ J ])  
+		if (a == mas30[j])
 		{
-			к  <-  1
+			k <- 1
 		}
 	}
-	если ( к  ==  0 ) {
-		mas30 [ я ] <- 
-		я  <-  я  +  1
+	if(k == 0){
+		mas30[i] <- a
+		i <- i + 1
 	}
 }
 
-Mx  <-  0
-J  <-  0
-для ( J  в  2 : 100 )
+Mx <- 0
+j <- 0
+for(j in 2:100)
 {
-	Мх  <-  Мг  + ( J  * ( 0,8 / 99 ))
+	Mx <- Mx + (j * (0.8/99)) 
 }
-кошки ( " М (х) = _discr " , Мх )
-Dx  <-  0
-MX2  <-  0
-J  <-  0
-для ( J  в  2 : 100 )
+cat("M(x)_discr = ", Mx)
+Dx <- 0
+Mx2 <- 0
+j <- 0
+for(j in 2:100)
 {
-	MX2  <-  MX2  + (( J  *  J ) * ( 0,8 / 99 ))
+	Mx2 <- Mx2 + ((j * j) * (0.8/99)) 
 }
  
-Dx  <-  MX2  - ( Mx  *  Mx )
-кошки ( " \ п Д (х) = _discr " , Dx , " \ п " )
+Dx <- Mx2 - (Mx * Mx)
+cat("\nD(x)_discr = ", Dx, "\n")
 
-кошки ( " \ П М (х) = от 30 " , означают ( mas30 ))
-кошки ( " \ п Д (х) = от 30 " , вар ( mas30 ), " \ п " )
+cat ("\nM(x) from 30 = ", mean(mas30))
+cat ("\nD(x) from 30 = ", var(mas30),"\n")
 
-кошки ( " \ П М (х) = от 300 " , означают ( mas300 ))
-кошки ( " \ п Д (х) = от 300 " , вар ( mas300 ), " \ п " )
+cat ("\nM(x) from 300 = ", mean(mas300))
+cat ("\nD(x) from 300 = ", var(mas300),"\n")
 
-пар ( mfrow  = с ( 1 , 2 ))
-Hist ( mas300 , тип  =  " 1 " , разбивает  =  100 )
-# Истор (mas300, брейки = 100)
-# Истор (masval, брейки = 100)
-Hist ( masval , тип  =  " 2 " , разбивает  =  100 )
+par (mfrow = c(1,2))
+hist(mas300, type = "1",breaks = 100)
+#hist(mas300, breaks = 100)
+#hist(masval, breaks = 100)
+hist(masval, type = "2",breaks = 100)
